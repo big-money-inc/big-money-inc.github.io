@@ -1,7 +1,3 @@
-#footer{
-	
-}
-
 h1{
 	font-family: Impact;
 	-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
@@ -12,7 +8,8 @@ h1{
 }
 
 img{
-	width:35%;
+	width: 35%;
+	weight:35%;
 	-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 3s; /* Firefox < 16 */
         -ms-animation: fadein 3s; /* Internet Explorer */
