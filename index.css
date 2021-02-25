@@ -1,4 +1,4 @@
-h1{
+body{
 	font-family: Impact;
 	-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 3s; /* Firefox < 16 */
@@ -7,14 +7,14 @@ h1{
             animation: fadein 3s;
 }
 
+.main{
+	text-align: center;
+	
+}
+
 img{
 	width: 35%;
-	weight:35%;
-	-webkit-animation: fadein 3s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadein 3s; /* Firefox < 16 */
-        -ms-animation: fadein 3s; /* Internet Explorer */
-         -o-animation: fadein 3s; /* Opera < 12.1 */
-            animation: fadein 3s;
+	height:35%;
 }
 
 @keyframes fadein {
